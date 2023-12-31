@@ -1,2 +1,4 @@
-# portfolio
-QA portfolio
+# Portfolio
+# About Me
+# Project Examples
+# Skills
