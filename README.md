@@ -24,6 +24,7 @@ July 2022 | Passed
 **Manual testing**   
 **Test analysis & design**   
 **SQL**   
+**Excel**   
 **Web development fundamentals**
 
 ## Project Examples
