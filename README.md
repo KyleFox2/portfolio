@@ -24,13 +24,26 @@ April 2021 – April 2023 | Distinction
 July 2022 | Passed
 
 ## Skills 
-**Automation testing**   
+**Automation testing**  
+Proficient in utilising Selenium with C# to create and execute automated test scripts, ensuring the functionality and reliability of web applications. Familiar with VS Code for efficient test script development and maintenance.
+   
 **API testing**   
+Experienced in testing the functionality and performance of APIs, validating data integrity, and ensuring seamless communication between software components. I can distinguish SOAP and REST APIs.
+   
 **Manual testing**   
+I have experience with exploratory testing, systematically exploring software to uncover potential defects and vulnerabilities not covered by scripted test cases. This approach ensures a thorough evaluation of the application's overall quality. I can also can perform functional and usability testing of web applications.
+   
 **Test analysis & design**   
-**SQL**   
+I can conduct comprehensive test analysis and designing effective test plans, ensuring thorough coverage of testing scenarios to meet project requirements.
+   
+**SQL**  
+Proficient in executing in-depth SQL queries for database testing, facilitating data validation, and ensuring the integrity of information stored within relational databases.
+   
 **Excel**   
-**Web development fundamentals**
+Can utilise Excel for data analysis, test case management, and reporting, enhancing efficiency in tracking and documenting testing processes.   
+   
+**Web development fundamentals**   
+I possess knowledge of web development fundamentals, including HTML, CSS, and JavaScript, with a little bit of experience in React for building dynamic and responsive web applications. This knowledge enables effective collaboration with development teams and a comprehensive understanding of web-based applications.
 
 ## Project Examples
 **Selenium with C#**   
