@@ -50,9 +50,9 @@ I possess knowledge of web development fundamentals, including HTML, CSS, and Ja
 This project  was on a demo website and demonstrates the use of automated testing using Selenium WebDriver in C#. The project includes a sample web application with multiple pages, each representing different scenarios commonly encountered in web testing. The automated tests are designed to showcase various Selenium features, such as interacting with form elements, handling alerts, and validating page content.   
 - Test cases in Excel, check [this Google Sheets document](https://docs.google.com/spreadsheets/d/18NszpYo1fmwGb__hvIy-mU81LSvELhMYlyICU1u1R9k/edit?usp=sharing).
 - Automation tests with C# and Selenium, check [this GitHub repository](https://github.com/KyleFox2/demo-selenium-test).
-- Bug reports in Jira:
-  - Bug #1, check [this screenshot]().
-  - Bug #2, check [this screenshot]().
+- Bug reports in Azure DevOps:
+  - Bug #1, check [this screenshot](https://drive.google.com/file/d/1-1ge4B71fdWDkyXuiIv-v0nl7GNZkOzL/view?usp=sharing).
+  - Bug #2, check [this screenshot](https://drive.google.com/file/d/16ZdpU9XSPC_Nn_TF4I9b2tux0EyoNKAy/view?usp=sharing).
 
 **API testing with Postman**   
 
