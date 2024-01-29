@@ -53,6 +53,3 @@ This project  was on a demo website and demonstrates the use of automated testin
 - Bug reports in Azure DevOps:
   - Bug #1, check [this screenshot](https://drive.google.com/file/d/1-1ge4B71fdWDkyXuiIv-v0nl7GNZkOzL/view?usp=sharing).
   - Bug #2, check [this screenshot](https://drive.google.com/file/d/16ZdpU9XSPC_Nn_TF4I9b2tux0EyoNKAy/view?usp=sharing).
-
-**API testing with Postman**   
-
