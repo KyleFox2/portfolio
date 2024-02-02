@@ -6,7 +6,7 @@
 ## About Me
 Hey there! I'm Kyle Fox, a QA Engineer with 2+ years of industry experience. I thrive on perfecting the user experience by crafting and executing meticulous test plans. Whether it's identifying bugs or collaborating within a team, my passion lies in ensuring the best quality software.  
 
-I achieved a distinction in my BCS level software testing apprenticeship, this was a great opportunity to get industry experience and work with plenty of talented individuals. During my employment at Tribal Group, I had the opportunity to implement comprehensive test strategies and contribute to the successful release of several projects. As an ISTQB certified professional, I'm equipped with both theoretical knowledge and practical expertise.   
+I achieved a distinction in my BCS level software testing apprenticeship, providing a great opportunity to gain industry experience and work with talented individuals. As an ISTQB certified professional, I am equipped with both theoretical knowledge and practical expertise.
 
 I aspire to be an automation engineer, driven by a passion for streamlining testing processes and ensuring software quality. With a background in manual testing and industry certifications, my goal is to contribute to innovative and efficient testing solutions through automation frameworks and advanced technologies.
 
@@ -28,7 +28,7 @@ July 2022 | Passed
 Proficient in utilising Selenium with C# to create and execute automated test scripts, ensuring the functionality and reliability of web applications. Familiar with VS Code for efficient test script development and maintenance.
    
 **API testing**   
-Experienced in testing the functionality and performance of APIs, validating data integrity, and ensuring seamless communication between software components. I can distinguish SOAP and REST APIs.
+Experienced in testing the functionality and performance of APIs, validating data integrity, and ensuring seamless communication between software components.
    
 **Manual testing**   
 I have experience with exploratory testing, systematically exploring software to uncover potential defects and vulnerabilities not covered by scripted test cases. This approach ensures a thorough evaluation of the application's overall quality. I can also can perform functional and usability testing of web applications.
