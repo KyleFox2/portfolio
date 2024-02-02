@@ -56,6 +56,7 @@ This project  was on a demo website and demonstrates the use of automated testin
   - Bug #2, check [this screenshot](https://drive.google.com/file/d/16ZdpU9XSPC_Nn_TF4I9b2tux0EyoNKAy/view?usp=sharing).
 
 **API Test with Postman**
+This is an API testing project with Postman & JavaScript. I have implemented GET, POST, PUT and DELETE requests  and created tests to check status codes and JSON schemas. The website under test was a demo shopping site, this allowed me to test creating and deleting users as well as viewing & updating products.  
 - Test cases in Excel, check [this Google Sheets document](https://docs.google.com/spreadsheets/d/1Rr4atg_KkVVJiyGO93mH5azzOGe7GerjJ7PMECZgsZU/edit?usp=drive_link).
 - Postman requests & automated tests, check [this Postman workspace](https://www.postman.com/navigation-cosmonaut-91155876/workspace/demo-api-automation).
   - Postman test summary, check [this screenshot](https://drive.google.com/file/d/14K2f7KG-1WJOxm8XP0x5K-zs7Lo1G3ze/view?usp=drive_link).
