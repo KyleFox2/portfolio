@@ -10,6 +10,7 @@ I achieved a distinction in my BCS level software testing apprenticeship, provid
 
 I aspire to be an automation engineer, driven by a passion for streamlining testing processes and ensuring software quality. With a background in manual testing and industry certifications, my goal is to contribute to innovative and efficient testing solutions through automation frameworks and advanced technologies.
 
+[LinkedIn](https://www.linkedin.com/in/kyle-fox1/)
 ## Qualifications and Experience
 **Tribal Group | Junior Software Tester**
 April 2021 – August 2023 | Nottingham
